@@ -1,0 +1,2 @@
+export const ADD_COUNTER = 'ADD_COUNTER';
+export const ADD_CALL_COUNTER = 'ADD_CALL_COUNTER';
